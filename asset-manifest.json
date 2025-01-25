@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-store-front/static/css/main.e0ef2dda.css",
-    "main.js": "/react-store-front/static/js/main.bcc51616.js",
-    "static/js/317.0b111eed.chunk.js": "/react-store-front/static/js/317.0b111eed.chunk.js",
-    "static/media/empty-cart.png": "/react-store-front/static/media/empty-cart.3403a608d3916400de28.png",
-    "index.html": "/react-store-front/index.html",
-    "main.e0ef2dda.css.map": "/react-store-front/static/css/main.e0ef2dda.css.map",
-    "main.bcc51616.js.map": "/react-store-front/static/js/main.bcc51616.js.map",
-    "317.0b111eed.chunk.js.map": "/react-store-front/static/js/317.0b111eed.chunk.js.map"
+    "main.css": "/static/css/main.e0ef2dda.css",
+    "main.js": "/static/js/main.c45282e1.js",
+    "static/js/453.18e57079.chunk.js": "/static/js/453.18e57079.chunk.js",
+    "static/media/empty-cart.png": "/static/media/empty-cart.3403a608d3916400de28.png",
+    "index.html": "/index.html",
+    "main.e0ef2dda.css.map": "/static/css/main.e0ef2dda.css.map",
+    "main.c45282e1.js.map": "/static/js/main.c45282e1.js.map",
+    "453.18e57079.chunk.js.map": "/static/js/453.18e57079.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0ef2dda.css",
-    "static/js/main.bcc51616.js"
+    "static/js/main.c45282e1.js"
   ]
 }
